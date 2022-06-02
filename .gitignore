@@ -1,0 +1,32 @@
+/ignore.html
+
+# patterns
+# entire folder
+ignorefolder/
+
+# ignore spcific file type in the folder
+folder/*.txt
+
+# every log dir
+**/logs
+
+# every specific file
+*.log
+
+# do not ignore this log ( ! operator )
+!important.log
+
+# file any dir with name 
+file1.txt
+
+# specific file from root (of .gitignore file)
+/file.txt
+
+# match any char, matches test1.log, testb.log
+test?.log
+
+# match regex patter, matches test0.log, but not testa.log
+test[0-9].log
+
+# match any file or folder with path containing characters
+log
