@@ -26,3 +26,9 @@ for *italic* use single _underscore_
 3. Order no. 2
    1. sub list
    2. sub lisiteaea
+
+Check boxes
+* [ ] Task 1
+* [ ] Task 2
+- [ ] Task diff 1
+- [ ] Task diff 2 
