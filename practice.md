@@ -39,3 +39,7 @@ Better | Decent | Best
 High no of Apps | Moderate no of Apps | Very High no of App
 
 [Google](https://www.google.com)
+
+![Profile image](https://avatars.githubusercontent.com/u/69447549 "My profile picture")
+
+![Demo image](demo.jpg "some random picture")
