@@ -32,3 +32,10 @@ Check boxes
 * [ ] Task 2
 - [ ] Task diff 1
 - [ ] Task diff 2 
+
+Android | iOS
+--- | ---
+Better | Decent
+--- | ---
+High Volume of Apps | Moderate Volume 
+--- | ---
