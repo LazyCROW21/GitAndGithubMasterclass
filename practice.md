@@ -10,3 +10,19 @@ for *italic* use single _underscore_
 ## header 2
 ### header 3
 #### header 4
+
+- Item 1
+- Item 2
+- > asd
++ new list
++ adadad
+* new item
+* idk why
+
+1. Ordered list
+   - aab
+   - iop
+   - klio
+3. Order no. 2
+   1. sub list
+   2. sub lisiteaea
